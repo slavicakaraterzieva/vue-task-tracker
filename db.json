@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Hairdresser",
+      "day": "May 02nd 14.15",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Doctors' appointment",
+      "day": "January 12th 08.30",
+      "reminder": true,
+      "id": 8
+    }
+  ]
+}
